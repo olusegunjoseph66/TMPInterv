@@ -1,0 +1,9 @@
+*
+
+*.NET 6.0
+
+*CustomerController,Models-Customer,CustomerType
+
+*CustomerService
+
+*When Updating Customer Record the CustomerTypeId is either 1-Active/2-NonActive
